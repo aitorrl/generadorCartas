@@ -1,0 +1,52 @@
+Id,Carta,texto,tipo,June,hennai,Kyuzu,JACCO,total
+1,BOOMERANG,Elimina 1 zombi. Roba 1 carta de tu mazo,Dañar,1,0,1,1,3
+2,CUCHILLO AFILADO DE COCINA,Elimina 1 zombi,Dañar,1,0,1,2,4
+3,CUCHILLO DE SUPERVIVENCIA,Elimina 1 zombi o cúrate 1 punto de vida.,Dañar,1,0,0,0,1
+4,TRUCO O TRATO,Elimina 1 zombi o cúrate 1 punto de vida.,Curar,4,0,0,0,4
+5,CÓCTEL MOLOTOV,Elimina hasta 2 zombis.,Dañar,1,1,1,1,4
+6,DOUBLE TAP,Elimina hasta 2 zombis.,Dañar,0,1,0,2,3
+7,GRANADA CEGADORA,Elimina hasta 2 zombis.,Dañar,0,1,0,0,1
+8,GRANADA DE MANO,Elimina hasta 3 zombis. Todos los jugadores reciben un 1 pt de daño,Dañar,0,0,4,0,4
+9,KATANA,Elimina 1 zombi,Dañar,0,0,4,0,4
+10,LA VIEJA LUPARA,Elimina hasta 3 zombis.,Dañar,1,1,0,1,3
+11,MAZO,Elimina 1 zombi,Dañar,0,0,0,1,1
+12,MOTOSIERRA ELÉCTRICA,Elimina hasta 2 zombis.,Dañar,0,1,0,2,3
+13,PIOLET,Redirige 1 zombi a otro jugador. Sólo en un suceso individual.,Burlar,1,1,0,0,2
+14,LA REVOLTOSA,Elimina hasta 3 zombis. El jugador/a de tu derecha pierde 1 vida,Dañar,0,0,4,0,4
+15,INTERFERENCIAS,Anula la habilidad de un superviviente,Común,1,1,1,1,4
+16,NO MAS TIRANOS,Apuesta por el liderazgo,Común,1,1,1,1,4
+17,EMPUJÓN,Redirije 1 zombi a otro jugador. Sólo en un suceso individual,Burlar,0,1,0,2,3
+18,ESCUDO HUMANO,Usa como escudo humano a otro jugador para que reciba en tu lugar 1 punto de daño que vayas a recibir,Burlar,0,2,1,1,4
+19,NECESIDAD,"Cura 1 punto de daño, a ti o al jugador/a que eligas",Curar,0,1,1,2,3
+20,POR LAS MALAS,1 jugador/a recibe 1 punto de daño dirigidos a ti.,Burlar,0,1,1,2,4
+21,SUERTE,Cura 1 punto de daño y Roba una  1 carta.,Curar,0,1,1,1,3
+22,A LO GRANDE,"Cura 2 puntos de daño,a ti o al jugador/a que eligas",Curar,2,1,0,1,4
+23,SEMILLAS,Cura 1 punto de daño y Roba una  1 carta.,Curar,1,1,0,1,3
+24,MANOS LARGAS,Roba aleatoriamente 1 carta de la mano de otro jugador.,Común,1,1,1,1,4
+25,NECESITO DESCANSAR,Redirije hasta 3 zombis a otro jugador. Juega esta carta sólo en un suceso individual,Burlar,1,1,0,1,3
+26,PLAN B,Roba 2 cartas de tu mazo y pierde 1 vida.,Común,1,1,1,1,4
+27,EL ULTIMO DE LA FILA,Redirije hasta 2 zombis a otro jugador. Juega esta carta sólo en un suceso individual,Burlar,1,0,0,2,3
+28,VANAGLORIA,Si has eliminado más de 2 zombis en este suceso o misión roba 3 cartas de tu mazo. ,Común,1,1,1,1,4
+29,TÚ SERAS EL PROXIMO,"
+Usa como escudo humano a otro jugador para que reciba en tu lugar 2 puntos de daño que vayas a recibir
+",Burlar,1,1,1,1,4
+30,SUBTERFUGIO,Los zombis que no se eliminen en este suceso o misión no te quitan puntos de vida.,Burlar,0,4,0,0,4
+31,TÁCTICAS,Roba 2 cartas de tu mazo.,Común,1,1,1,1,4
+32,2 x 1,Cura 1 punto de daño y Roba 2 cartas.,Curar,4,0,0,0,4
+33,BOTIQUÍN,Cura 1 punto de daño,Curar,0,1,1,2,4
+34,LA MIRADA BIEN ALTA,Los zombis que no se eliminen en este suceso o misión no te quitan puntos de vida.,Burlar,1,1,1,1,4
+35,HISTERIA,El jugador de tu derecha recibe 1 pt de daño,Común,1,1,1,1,4
+36,ADRENALINA,Descarta 1 carta de tu mano y gana 2 puntos de vida.,Curar,0,0,0,1,1
+37,REDBULL ,Gana 2 puntos de vida,Curar,4,0,0,1,5
+38,EXPOLIO,Coges las cartas de la mano de un jugador muerto en un suceso o misión ,Común,1,1,1,0,3
+40,KIT DE CIRUJÍA,Otro jugador que tú elijas gana 2 puntos de vida.,Curar,0,0,1,0,1
+41,SEÑUELO,Redirige 1 zombi al jugador que tú elijas. Juega esta carta en un suceso individual,Burlar,0,3,1,0,4
+42,SIN MIRAR ATRAS,No participas en este suceso o mision,Común,1,1,1,1,4
+43,MANOPLITAS,Coge la primera carta de la basura del jugador de tu izquierda,Común,1,1,1,0,3
+44,EXTENSOR,Coge la primera carta de la basura del jugador de tu derecha,Común,1,1,1,0,3
+45,SUTURA,Cura 1 punto de daño,Curar,0,0,1,1,2
+46,CREMALLERA,Nadie puede robarte cartas de la mano,Común,1,1,1,1,4
+47,PINZAS,Roba 1 carta de tu mazo,Común,1,1,1,1,4
+48,NO SE LO ESPERAN,Esta carta cuenta doble en una apuesta por el liderazgo,Común,1,1,1,0,3
+49,RISA SIN FIN,Esta carta cuenta triple en una apuesta por el liderazgo,Común,1,1,1,0,2
+50,OFERTA,Esta carta cuenta doble en una apuesta por el liderazgo,Común,0,0,0,0,0
