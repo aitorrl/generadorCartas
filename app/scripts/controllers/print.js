@@ -22,7 +22,7 @@ angular.module('cardGamePrototyper')
 		$scope.cardList = [];
 
 		_.each(user.data, function(cardDef) {
-			_.times(cardDef.Quantity, function() {
+			_.times(cardDef.total, function() {
 				var card = {
 					type: cardDef
 				};

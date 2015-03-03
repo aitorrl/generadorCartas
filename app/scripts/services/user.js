@@ -17,6 +17,7 @@ angular.module('cardGamePrototyper')
 		};
 		var csvData = new CSV(csvStr, csvOptions);
 		userService.data = csvData.parse();
+		console.log(userService.data);
 	}
 
 });
