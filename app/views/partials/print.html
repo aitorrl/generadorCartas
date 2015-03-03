@@ -1,9 +1,21 @@
-<div ng-repeat="(key, card) in cardList" class="cardItem">
+<!-- <div ng-repeat="(key, card) in cardList" class="cardItem {{card.type.tipo1}}">
 	<div class="card">
-		<h3 class="hint">{{card.type.total}}</h3>
+		<img src="/images/card1.png">
+		<h3>{{card.type.Carta}}</h3>
 		<div class="cardContent">
 			<p>{{card.type.texto}}</p>
-			<p>{{card.type.Carta}}</p>
+		</div>
+	</div>
+</div> -->
+
+
+<div ng-repeat="(key, card) in cardList" class="cardItem">
+	
+	<div class="card-colapso"><img src="/images/{{card.type.tipo}}.png"></div>
+	<div class="card">
+		<div class="nombre-carta">{{card.type.Carta}}</div>
+		<div class="texto-carta">
+			{{card.type.texto}}
 		</div>
 	</div>
 </div>

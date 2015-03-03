@@ -19,6 +19,8 @@
 		<link rel="stylesheet" href="styles/main.css">
 		<link rel="stylesheet" href="styles/import.css">
 		<link rel="stylesheet" href="styles/print.css">
+		<!-- <link rel="stylesheet" href="styles/print.css" media="screen and (min-width: 48em)">  -->
+		
 		<!-- endbuild -->
 	</head>
 	<body ng-app="cardGamePrototyper">
@@ -39,10 +41,12 @@
 			<div class="row doNotPrint">
 				<div class="col-md-12">
 					<br><br>
-						<pre lang="csv"><code>Name,Quantity,Hint,Description,Probability
-						Seer,1,S,"When instructed, pick one player and the moderator will tell you if they're a werewolf.",14%
-						Werewolf,2,W,At nightfall open your eyes and pick a victim,29%
-						Villager,4,V,At daybreak try to find the werewolf,57%</code></pre>
+			<pre>Id,Carta,texto,tipo,June,hennai,Kyuzu,JACCO,total
+1,BOOMERANG,Elimina 1 zombi. Roba 1 carta de tu mazo,Dañar,1,0,1,1,3
+2,CUCHILLO AFILADO DE COCINA,Elimina 1 zombi,Dañar,1,0,1,2,4
+3,CUCHILLO DE SUPERVIVENCIA,Elimina 1 zombi o cúrate 1 punto de vida.,Burlar,1,0,0,0,1
+4,TRUCO O TRATO,Elimina 1 zombi o cúrate 1 punto de vida.,Burlar,4,0,0,0,4
+5,CÓCTEL MOLOTOV,Elimina hasta 2 zombis.,Dañar,1,1,1,1,4</pre>
 				</div>
 			</div>
 			
