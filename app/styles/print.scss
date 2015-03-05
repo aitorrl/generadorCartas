@@ -27,7 +27,12 @@ $card-border-size: 1px;
 	body {
 		margin: 0;
 	}
-
+	.nombre-carta{
+	color: red !important;
+	}
+	.texto-carta {
+	color: #fff !important;
+    }
 }
 
 .cardItem {
@@ -112,11 +117,14 @@ $card-border-size: 1px;
 	position: relative;
 	top: 15px;
 	left: 16px;
+	width: 72%;
 }
 
 .texto-carta {
-	position: relative;
-	top: 200px;
-	left: 12%;
+	position: absolute;
+	top: 264px;
+	left: 11%;
+	width: 83%;
+	color: #fff !important;
 }
 
