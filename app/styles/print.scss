@@ -18,6 +18,15 @@ $card-border-size: 1px;
 	}
 }
 
+
+@media print and (color) {
+   * {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+   }
+}
+
+
 @media print {
 	.page-break	{
 		display: block;
@@ -27,9 +36,7 @@ $card-border-size: 1px;
 	body {
 		margin: 0;
 	}
-	.nombre-carta{
-	color: red !important;
-	}
+	
 	.texto-carta {
 	color: #fff !important;
     }
@@ -51,8 +58,8 @@ $card-border-size: 1px;
 		left: 0;
 		border: $card-border-size solid red;
 		margin: 0;
-		width: 2.5in;
-		height: 3.5in;
+		width: 62mm;
+		height: 87mm;
 		overflow: hidden;
   		background-size: cover;
 
@@ -99,8 +106,8 @@ $card-border-size: 1px;
 // COLAPSO 
 
 .card-colapso {
-		width: 2.5in;
-		height: 3.5in;
+		width: 62mm;
+		height: 87mm;
 		overflow: hidden;
 		position: relative;
 		z-index: -999999;
